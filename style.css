@@ -1,5 +1,6 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
 }
 
 h1,
@@ -10,8 +11,7 @@ h2 {
 
 ul, 
 ol,
-div,
-.text {
+div {
     color:rgba(0, 0, 255, 0.849);
     font-size: 20px;
 }
@@ -21,7 +21,9 @@ ol {
     font-weight: bold;
 }
 
-
+.text {
+    color:blueviolet;
+}
 
 a { 
     color: orange;
